@@ -1,2 +1,4 @@
-# CO2-vs-Snowpack-Depth
+# Writeup: " CO2andSnowDepth.pdf"
+# Code : "Vinayak-DataWork.ipynb"
+
 
